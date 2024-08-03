@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-<h3 align="center">A passionate Full Stack Software Development from India</h3>
+<h3 align="center">Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma2002&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma2002" /> </p>
 
-- 🔭 I’m currently working on **Real Estate Project**
-
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Web Development,Mobile App Development,Computer Vision,AI and Machine Learning.**
+- 💬 Ask me about **Web Development,Software Testing,Computer Vision, AI and Machine Learning.**
 
 - 📫 How to reach me **ankitsharma8102002@gmail.com**
 
