@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma2002&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma2002" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
-
-- 💬 Ask me about **Web Development,Software Testing,Computer Vision, AI and Machine Learning.**
-
 - 📫 How to reach me **ankitsharma8102002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
